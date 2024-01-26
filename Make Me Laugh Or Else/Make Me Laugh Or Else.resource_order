@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"rm_theater","order":1,"path":"rooms/rm_theater/rm_theater.yy",},
+    {"name":"curtains","order":16,"path":"objects/curtains/curtains.yy",},
   ],
 }
