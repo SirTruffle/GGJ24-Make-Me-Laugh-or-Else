@@ -1,1 +1,2 @@
-closeCurtain();
+//closeCurtain();
+openCurtains();

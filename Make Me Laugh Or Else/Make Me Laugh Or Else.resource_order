@@ -18,6 +18,10 @@
   ],
   "ResourceOrderSettings": [
     {"name":"rm_theater","order":1,"path":"rooms/rm_theater/rm_theater.yy",},
+    {"name":"oGain","order":17,"path":"objects/oGain/oGain.yy",},
+    {"name":"sprCurtainOpen","order":1,"path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},
+    {"name":"curtainsOpen","order":18,"path":"objects/curtainsOpen/curtainsOpen.yy",},
     {"name":"curtains","order":16,"path":"objects/curtains/curtains.yy",},
+    {"name":"rm_innit","order":2,"path":"rooms/rm_innit/rm_innit.yy",},
   ],
 }
