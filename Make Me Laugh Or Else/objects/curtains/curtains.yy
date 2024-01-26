@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sprCurtain",
+    "path": "sprites/sprCurtain/sprCurtain.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
