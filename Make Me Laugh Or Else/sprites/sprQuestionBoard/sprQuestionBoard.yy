@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sprQuestionBoard",
-  "bbox_bottom": 138,
+  "bbox_bottom": 149,
   "bbox_left": 0,
-  "bbox_right": 299,
+  "bbox_right": 323,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 139,
+  "height": 150,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7b042188-c72e-43fc-b515-87f68b54ae61","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 300,
+  "width": 324,
 }
