@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"rm_theater","path":"rooms/rm_theater/rm_theater.yy",},},
+    {"id":{"name":"sprClown","path":"sprites/sprClown/sprClown.yy",},},
     {"id":{"name":"questionBoard","path":"objects/questionBoard/questionBoard.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"sprCurtainOpen","path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},},
