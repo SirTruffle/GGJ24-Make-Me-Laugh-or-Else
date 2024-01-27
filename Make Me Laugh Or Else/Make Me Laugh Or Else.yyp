@@ -37,14 +37,23 @@
   "resources": [
     {"id":{"name":"rm_theater","path":"rooms/rm_theater/rm_theater.yy",},},
     {"id":{"name":"sprClown","path":"sprites/sprClown/sprClown.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"mainMenuInterface","path":"objects/mainMenuInterface/mainMenuInterface.yy",},},
+=======
+<<<<<<< HEAD
+    {"id":{"name":"sprTheaterBackground","path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},},
+=======
+    {"id":{"name":"mainMenuInterface","path":"objects/mainMenuInterface/mainMenuInterface.yy",},},
+>>>>>>> e42a1c2a39b1c2dba6a290ee0870c14af13bdf5d
+>>>>>>> Stashed changes
     {"id":{"name":"questionBoard","path":"objects/questionBoard/questionBoard.yy",},},
     {"id":{"name":"localFuncLibrary","path":"scripts/localFuncLibrary/localFuncLibrary.yy",},},
     {"id":{"name":"sprCurtainOpen","path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},},
+    {"id":{"name":"sprTheaterShade","path":"sprites/sprTheaterShade/sprTheaterShade.yy",},},
     {"id":{"name":"sprQuestionBoard","path":"sprites/sprQuestionBoard/sprQuestionBoard.yy",},},
     {"id":{"name":"sprCurtain","path":"sprites/sprCurtain/sprCurtain.yy",},},
-    {"id":{"name":"sprTheaterFront","path":"sprites/sprTheaterFront/sprTheaterFront.yy",},},
     {"id":{"name":"curtains","path":"objects/curtains/curtains.yy",},},
+    {"id":{"name":"sprTheaterSpot","path":"sprites/sprTheaterSpot/sprTheaterSpot.yy",},},
     {"id":{"name":"rm_innit","path":"rooms/rm_innit/rm_innit.yy",},},
     {"id":{"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},},
   ],

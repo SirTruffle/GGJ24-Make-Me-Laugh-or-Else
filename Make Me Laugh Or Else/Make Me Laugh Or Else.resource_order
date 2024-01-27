@@ -20,11 +20,21 @@
   "ResourceOrderSettings": [
     {"name":"rm_theater","order":1,"path":"rooms/rm_theater/rm_theater.yy",},
     {"name":"sprClown","order":2,"path":"sprites/sprClown/sprClown.yy",},
+<<<<<<< Updated upstream
     {"name":"mainMenuInterface","order":20,"path":"objects/mainMenuInterface/mainMenuInterface.yy",},
+=======
+<<<<<<< HEAD
+    {"name":"sprTheaterBackground","order":3,"path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},
+=======
+    {"name":"mainMenuInterface","order":20,"path":"objects/mainMenuInterface/mainMenuInterface.yy",},
+>>>>>>> e42a1c2a39b1c2dba6a290ee0870c14af13bdf5d
+>>>>>>> Stashed changes
     {"name":"questionBoard","order":17,"path":"objects/questionBoard/questionBoard.yy",},
     {"name":"sprCurtainOpen","order":1,"path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},
+    {"name":"sprTheaterShade","order":1,"path":"sprites/sprTheaterShade/sprTheaterShade.yy",},
     {"name":"sprQuestionBoard","order":18,"path":"sprites/sprQuestionBoard/sprQuestionBoard.yy",},
     {"name":"curtains","order":16,"path":"objects/curtains/curtains.yy",},
+    {"name":"sprTheaterSpot","order":2,"path":"sprites/sprTheaterSpot/sprTheaterSpot.yy",},
     {"name":"rm_innit","order":2,"path":"rooms/rm_innit/rm_innit.yy",},
   ],
 }
