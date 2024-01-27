@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"rm_theater","order":1,"path":"rooms/rm_theater/rm_theater.yy",},
+    {"name":"questionBoard","order":17,"path":"objects/questionBoard/questionBoard.yy",},
     {"name":"sprCurtainOpen","order":1,"path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},
+    {"name":"sprQuestionBoard","order":18,"path":"sprites/sprQuestionBoard/sprQuestionBoard.yy",},
     {"name":"curtains","order":16,"path":"objects/curtains/curtains.yy",},
     {"name":"rm_innit","order":2,"path":"rooms/rm_innit/rm_innit.yy",},
   ],

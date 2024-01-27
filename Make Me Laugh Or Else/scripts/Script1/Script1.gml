@@ -1,7 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function closeCurtain(){
-	
+	depth = -499;
 	sprite_index = sprCurtain;
 	image_speed = 1;
 	
@@ -24,7 +24,7 @@ function closeCurtain(){
 
 
 function openCurtains(){
-	
+	depth = -499;
 	sprite_index = sprCurtainOpen;
 	image_speed = 1;
 	

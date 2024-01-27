@@ -35,8 +35,10 @@
   },
   "resources": [
     {"id":{"name":"rm_theater","path":"rooms/rm_theater/rm_theater.yy",},},
+    {"id":{"name":"questionBoard","path":"objects/questionBoard/questionBoard.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"sprCurtainOpen","path":"sprites/sprCurtainOpen/sprCurtainOpen.yy",},},
+    {"id":{"name":"sprQuestionBoard","path":"sprites/sprQuestionBoard/sprQuestionBoard.yy",},},
     {"id":{"name":"sprCurtain","path":"sprites/sprCurtain/sprCurtain.yy",},},
     {"id":{"name":"curtains","path":"objects/curtains/curtains.yy",},},
     {"id":{"name":"rm_innit","path":"rooms/rm_innit/rm_innit.yy",},},
